@@ -4,3 +4,4 @@ bdd-log.xml
 *.log
 ignore/**
 tests.xml
+.vscode/**
