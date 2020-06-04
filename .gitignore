@@ -5,3 +5,6 @@ bdd-log.xml
 ignore/**
 tests.xml
 .vscode/**
+tests/doc/**
+tests/test.os
+tests/AutoDocGen.json
